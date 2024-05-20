@@ -7,7 +7,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Introduction to Pandas | [Link](./intro-to-pandas-starter-code.ipynb)|
+| Lesson | Introduction to Pandas | [Link](./pandas-starter.ipynb)|
 
 ---
 
